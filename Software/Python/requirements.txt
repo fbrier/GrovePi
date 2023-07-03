@@ -1,5 +1,5 @@
-numpy
+numpy == 1.21
 smbus-cffi
 RPi.GPIO
 pyserial
-scipy
+scipy <= 1.7.2
